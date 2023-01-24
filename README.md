@@ -4,4 +4,4 @@ M.S. in Computer Science, B.S. in Computer Science, minor in Mathematics from th
 
 Developer based in Houston
 
-timgehr.com
+[Check out my website!](https://www.timgehr.com/#/)
