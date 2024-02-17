@@ -1,7 +1,9 @@
-Tim Gehrsitz
+Howdy! I'm Tim Gehrsitz.
 
-M.S. in Computer Science, B.S. in Computer Science, minor in Mathematics from the University of Oklahoma.
+I have a Bachelor's and Master's in Computer Science, and a minor in Mathematics from the University of Oklahoma.
 
-Developer based in Houston
+I'm a full stack software developer currently based in Houston.
+
+[Check out my free password manager!](https://www.pass-the-salt.netlify.app/)
 
 [Check out my website!](https://www.timgehr.com/#/)
