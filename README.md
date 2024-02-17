@@ -4,6 +4,6 @@ I have a Bachelor's and Master's in Computer Science, and a minor in Mathematics
 
 I'm a full stack software developer currently based in Houston.
 
-[Check out my free password manager!](https://www.pass-the-salt.netlify.app/)
+[Check out my free password manager!](https://passthesalt.netlify.app/)
 
 [Check out my website!](https://www.timgehr.com/#/)
